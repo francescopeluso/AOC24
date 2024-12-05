@@ -1,5 +1,5 @@
 #
-#   Advent of Code 2024 - Day 2
+#   Advent of Code 2024 - Day 3
 #   Francesco Peluso - @francescopeluso on GitHub
 #   Repo:         https://github.com/francescopeluso/AOC24
 #   My website:   https://francescopeluso.xyz
