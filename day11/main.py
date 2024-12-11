@@ -1,3 +1,10 @@
+#
+#   Advent of Code 2024 - Day 11
+#   Francesco Peluso - @francescopeluso on GitHub
+#   Repo:         https://github.com/francescopeluso/AOC24
+#   My website:   https://francescopeluso.xyz
+#
+
 from functools import cache
 
 def read_input():
